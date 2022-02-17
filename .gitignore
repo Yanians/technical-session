@@ -6,25 +6,25 @@
 .pnp.js
 /related
 /typescript
+src/axios-redux
+src/components
+src/config
+src/controller
+src/css
+src/dexie
+src/fonts
+src/junk-files
+src/model
+src/redux
+src/routes
+src/treasurylib
+src/trialroute
+src/video-rentals
+src/video-rental
+src/index-vetexSolution.js
 # testing
 /coverage
 
-/axios-redux
-/components
-/config
-/controller
-/css
-/dexie
-/fonts
-/junk-files
-/model
-/redux
-/routes
-/treasurylib
-/trialroute
-/video-rentals
-/video-rental
-/index-vetexSolution.js
 
 # production
 # /build
