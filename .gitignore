@@ -6,30 +6,15 @@
 .pnp.js
 /related
 /typescript
-src/axios-redux
-src/components
-src/config
-src/controller
-src/css
-src/dexie
-src/fonts
-src/junk-files
-src/model
-src/redux
-src/routes
-src/treasurylib
-src/trialroute
-src/video-rentals
-src/video-rental
-src/index-vetexSolution.js
+
 # testing
 /coverage
 
 
 # production
 # /build
-
 # misc
+# axios-redux
 .DS_Store
 .env.local
 .env.development.local
